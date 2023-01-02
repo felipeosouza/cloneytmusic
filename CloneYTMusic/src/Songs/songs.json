@@ -1,0 +1,2782 @@
+{
+    "query": "1",
+    "tracks": {
+      "totalCount": 1000,
+      "items": [
+        {
+          "data": {
+            "uri": "spotify:track:0AluA5RNsa4Cx6XRhf2hWZ",
+            "id": "0AluA5RNsa4Cx6XRhf2hWZ",
+            "name": "10 Freaky Girls (with 21 Savage)",
+            "albumOfTrack": {
+              "uri": "spotify:album:3IO8IPjwXuzPJnoaqkwYrj",
+              "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022887f8c05b5a9f1cb105be29",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048512887f8c05b5a9f1cb105be29",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732887f8c05b5a9f1cb105be29",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3IO8IPjwXuzPJnoaqkwYrj",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj?si=qwg45BaMTWiprRwaZbx8dg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp",
+                  "profile": {
+                    "name": "Metro Boomin"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft",
+                  "profile": {
+                    "name": "21 Savage"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 208293
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:4HEOgBHRCExyYVeTyrXsnL",
+            "id": "4HEOgBHRCExyYVeTyrXsnL",
+            "name": "Jingle Bells - Remastered 1999",
+            "albumOfTrack": {
+              "uri": "spotify:album:0ny6mZMBrYSO0s8HAKbcVq",
+              "name": "A Jolly Christmas From Frank Sinatra",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0294fd2e614d0862bdd2592594",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485194fd2e614d0862bdd2592594",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27394fd2e614d0862bdd2592594",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "0ny6mZMBrYSO0s8HAKbcVq",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq?si=Q68k_4fXRAKQQyhN40wXXw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0",
+                  "profile": {
+                    "name": "Frank Sinatra"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 120693
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:09riz9pAPJyYYDVynE5xxY",
+            "id": "09riz9pAPJyYYDVynE5xxY",
+            "name": "1000 Blunts",
+            "albumOfTrack": {
+              "uri": "spotify:album:3elJRIffdqvypuxoDND2Q3",
+              "name": "Sing Me a Lullaby, My Sweet Temptation",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02db20089661aff3a8070600ca",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851db20089661aff3a8070600ca",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273db20089661aff3a8070600ca",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3elJRIffdqvypuxoDND2Q3",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3?si=eIRPB0FhSEmKR9Htx1gyMA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:1VPmR4DJC1PlOtd0IADAO0",
+                  "profile": {
+                    "name": "$uicideboy$"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 175476
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6BePGk3eCan4FqaW2X8Qy3",
+            "id": "6BePGk3eCan4FqaW2X8Qy3",
+            "name": "10:35",
+            "albumOfTrack": {
+              "uri": "spotify:album:77wWx9sOCJiy0wcn0P44NO",
+              "name": "10:35",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02999565cd8bea3f8f0985bb31",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851999565cd8bea3f8f0985bb31",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273999565cd8bea3f8f0985bb31",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "77wWx9sOCJiy0wcn0P44NO",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO?si=7PhQ_6uMQyyn_Bq4dALI9g"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z",
+                  "profile": {
+                    "name": "Tiësto"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym",
+                  "profile": {
+                    "name": "Tate McRae"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 172252
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5xlS0QkVrSH7ssEbBgBzbM",
+            "id": "5xlS0QkVrSH7ssEbBgBzbM",
+            "name": "Little Saint Nick - 1991 Remix",
+            "albumOfTrack": {
+              "uri": "spotify:album:67nqYhvjDyJXGD64937Lw3",
+              "name": "The Beach Boys' Christmas Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0208c270b3ef1602ff84ed2c05",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485108c270b3ef1602ff84ed2c05",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27308c270b3ef1602ff84ed2c05",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "67nqYhvjDyJXGD64937Lw3",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3?si=JbxcnB0XQz2xmRLKWFeU8Q"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:3oDbviiivRWhXwIE8hxkVV",
+                  "profile": {
+                    "name": "The Beach Boys"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 118840
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:1Is8hGpkGMiePASAxBluxM",
+            "id": "1Is8hGpkGMiePASAxBluxM",
+            "name": "16",
+            "albumOfTrack": {
+              "uri": "spotify:album:3r46DPIQeBQbjvjjV5mXGg",
+              "name": "The Melodic Blue",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e021bfa23b13d0504fb90c37b39",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048511bfa23b13d0504fb90c37b39",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731bfa23b13d0504fb90c37b39",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3r46DPIQeBQbjvjjV5mXGg",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg?si=wQn7y52eQsyd_47TZ6ACxQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5SXuuuRpukkTvsLuUknva1",
+                  "profile": {
+                    "name": "Baby Keem"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 156040
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:2FPfeYlrbSBR8PwCU0zaqq",
+            "id": "2FPfeYlrbSBR8PwCU0zaqq",
+            "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+            "albumOfTrack": {
+              "uri": "spotify:album:0ny6mZMBrYSO0s8HAKbcVq",
+              "name": "A Jolly Christmas From Frank Sinatra",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0294fd2e614d0862bdd2592594",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485194fd2e614d0862bdd2592594",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27394fd2e614d0862bdd2592594",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "0ny6mZMBrYSO0s8HAKbcVq",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq?si=Q68k_4fXRAKQQyhN40wXXw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0",
+                  "profile": {
+                    "name": "Frank Sinatra"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 206600
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5tz69p7tJuGPeMGwNTxYuV",
+            "id": "5tz69p7tJuGPeMGwNTxYuV",
+            "name": "1-800-273-8255",
+            "albumOfTrack": {
+              "uri": "spotify:album:1HiN2YXZcc3EjmVZ4WjfBk",
+              "name": "Everybody",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cfdf40cf325b609a52457805",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851cfdf40cf325b609a52457805",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cfdf40cf325b609a52457805",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "1HiN2YXZcc3EjmVZ4WjfBk",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk?si=HwQMgOQgThiD2aRbqpSifg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L",
+                  "profile": {
+                    "name": "Logic"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:2wUjUUtkb5lvLKcGKsKqsR",
+                  "profile": {
+                    "name": "Alessia Cara"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny",
+                  "profile": {
+                    "name": "Khalid"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 250173
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:1IHWl5LamUGEuP4ozKQSXZ",
+            "id": "1IHWl5LamUGEuP4ozKQSXZ",
+            "name": "Tití Me Preguntó",
+            "albumOfTrack": {
+              "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5",
+              "name": "Un Verano Sin Ti",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3RQQmkQEvNCY4prGKE6oc5",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5?si=e8zOSGxwTU-sxVK9UOyLVw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+                  "profile": {
+                    "name": "Bad Bunny"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 243716
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:0cAhE2iDJApegDnVRx6fCK",
+            "id": "0cAhE2iDJApegDnVRx6fCK",
+            "name": "Twelve Days Of Christmas",
+            "albumOfTrack": {
+              "uri": "spotify:album:5nul8LIKI5rjKuW7FAkoKb",
+              "name": "Christmas Greetings",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fce7d70d2533743bc5833a66",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851fce7d70d2533743bc5833a66",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fce7d70d2533743bc5833a66",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "5nul8LIKI5rjKuW7FAkoKb",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/5nul8LIKI5rjKuW7FAkoKb?si=tdO0Oz4iRM-dUAFYL-9FUA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:6ZjFtWeHP9XN7FeKSUe80S",
+                  "profile": {
+                    "name": "Bing Crosby"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:2NCGI6dLTxLdI9XHdv7QfM",
+                  "profile": {
+                    "name": "The Andrews Sisters"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 203746
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:75lcPkAkUsKWHGBlGM476R",
+            "id": "75lcPkAkUsKWHGBlGM476R",
+            "name": "1400 / 999 Freestyle",
+            "albumOfTrack": {
+              "uri": "spotify:album:6qRbGZqJ3aQY8N8bcHc1ug",
+              "name": "A Love Letter To You 3",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0292bb8047753d97ff274b2f5f",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485192bb8047753d97ff274b2f5f",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27392bb8047753d97ff274b2f5f",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6qRbGZqJ3aQY8N8bcHc1ug",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6qRbGZqJ3aQY8N8bcHc1ug?si=ytzORKGWTIqbkuChlbFbEg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
+                  "profile": {
+                    "name": "Trippie Redd"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz",
+                  "profile": {
+                    "name": "Juice WRLD"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 175954
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:4Yg2w0P29BBBMixyeNjDtj",
+            "id": "4Yg2w0P29BBBMixyeNjDtj",
+            "name": "Do They Know It's Christmas? - 1984 Version",
+            "albumOfTrack": {
+              "uri": "spotify:album:2WlRAsKdyYOwg2tdBjxVwq",
+              "name": "Do They Know It’s Christmas?",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d549b09f0264901929eaa6e8",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851d549b09f0264901929eaa6e8",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d549b09f0264901929eaa6e8",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2WlRAsKdyYOwg2tdBjxVwq",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq?si=xzFWj93tTpa20rYM2Qmd4w"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:35S20clEkkSNUo23ViaslZ",
+                  "profile": {
+                    "name": "Band Aid"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 222533
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:3CUpbtzoKSma5AnP7kLoEv",
+            "id": "3CUpbtzoKSma5AnP7kLoEv",
+            "name": "100 degrees",
+            "albumOfTrack": {
+              "uri": "spotify:album:1FtqIRyFbGToVdXkmWN9f0",
+              "name": "100 degrees",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bdd88c8cf64e44561f271b6c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851bdd88c8cf64e44561f271b6c",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bdd88c8cf64e44561f271b6c",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "1FtqIRyFbGToVdXkmWN9f0",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/1FtqIRyFbGToVdXkmWN9f0?si=hLw7PrvOSamRTfocL_iDNw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5pWUVnrc1y0FpWZ6VCy0Hg",
+                  "profile": {
+                    "name": "kenzie"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 158714
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5QLHGv0DfpeXLNFo7SFEy1",
+            "id": "5QLHGv0DfpeXLNFo7SFEy1",
+            "name": "1979 - Remastered 2012",
+            "albumOfTrack": {
+              "uri": "spotify:album:55RhFRyQFihIyGf61MgcfV",
+              "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02431ac6e6f393acf475730ec6",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851431ac6e6f393acf475730ec6",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "55RhFRyQFihIyGf61MgcfV",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV?si=C5ziNSjSSWKQFsyh2tL30w"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i",
+                  "profile": {
+                    "name": "The Smashing Pumpkins"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 266200
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6s2wpWPFPAgKg2LXxi1Oee",
+            "id": "6s2wpWPFPAgKg2LXxi1Oee",
+            "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+            "albumOfTrack": {
+              "uri": "spotify:album:6SEtGOi92yZM5TyAGlXlpZ",
+              "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026a68798b2ac41fde44823eb5",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048516a68798b2ac41fde44823eb5",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736a68798b2ac41fde44823eb5",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6SEtGOi92yZM5TyAGlXlpZ",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ?si=HOOauq47Qoiv8B1n8UQfEQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT",
+                  "profile": {
+                    "name": "Bruce Springsteen"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 267600
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6Jkm5kUldvIqxzI1Pa7nXH",
+            "id": "6Jkm5kUldvIqxzI1Pa7nXH",
+            "name": "10 Things I Hate About You",
+            "albumOfTrack": {
+              "uri": "spotify:album:26hYEKjKZU1sTC4mUPpVI6",
+              "name": "10 Things I Hate About You",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02596a9d381ffda7d97da5d702",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851596a9d381ffda7d97da5d702",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273596a9d381ffda7d97da5d702",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "26hYEKjKZU1sTC4mUPpVI6",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/26hYEKjKZU1sTC4mUPpVI6?si=9v95vi-SSJiJnndvwGbx9A"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:6oWOHAOyBUn6aJlKIPJK9r",
+                  "profile": {
+                    "name": "Leah Kate"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 157138
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6Sq7ltF9Qa7SNFBsV5Cogx",
+            "id": "6Sq7ltF9Qa7SNFBsV5Cogx",
+            "name": "Me Porto Bonito",
+            "albumOfTrack": {
+              "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5",
+              "name": "Un Verano Sin Ti",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3RQQmkQEvNCY4prGKE6oc5",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5?si=e8zOSGxwTU-sxVK9UOyLVw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+                  "profile": {
+                    "name": "Bad Bunny"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:37230BxxYs9ksS7OkZw3IU",
+                  "profile": {
+                    "name": "Chencho Corleone"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 178567
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:7mOnZagYtB3zKcLqgWq2X8",
+            "id": "7mOnZagYtB3zKcLqgWq2X8",
+            "name": "12 Days Of Christmas",
+            "albumOfTrack": {
+              "uri": "spotify:album:090o9kMZEhvkB5Vw211meV",
+              "name": "We Need A Little Christmas",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e025e7bbeba77251160208ddcb6",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048515e7bbeba77251160208ddcb6",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735e7bbeba77251160208ddcb6",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "090o9kMZEhvkB5Vw211meV",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/090o9kMZEhvkB5Vw211meV?si=sbWYLU8oTwCamphRRiYvKA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:26AHtbjWKiwYzsoGoUZq53",
+                  "profile": {
+                    "name": "Pentatonix"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 184706
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:25leEEaz1gIpp7o21Fqyjo",
+            "id": "25leEEaz1gIpp7o21Fqyjo",
+            "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
+            "albumOfTrack": {
+              "uri": "spotify:album:3BPDSjoJlho8oiUPUNrShM",
+              "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0235e9a6f6a1eded2062526499",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485135e9a6f6a1eded2062526499",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27335e9a6f6a1eded2062526499",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3BPDSjoJlho8oiUPUNrShM",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM?si=oQdxrhmQStuXXfgMljBv6Q"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5ixB75BQR3ADoWQkcHQJTs",
+                  "profile": {
+                    "name": "Gene Autry"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 150266
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:4wcBRRpIfesgcyUtis7PEg",
+            "id": "4wcBRRpIfesgcyUtis7PEg",
+            "name": "1 step forward, 3 steps back",
+            "albumOfTrack": {
+              "uri": "spotify:album:6s84u2TUpR3wdUv4NgKA2j",
+              "name": "SOUR",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851a91c10fe9472d9bd89802e5a",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6s84u2TUpR3wdUv4NgKA2j",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j?si=Ymp6D9sURjq1a9v510bWVg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+                  "profile": {
+                    "name": "Olivia Rodrigo"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 163586
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6KGtAlYvgm4W9PoYabFAYE",
+            "id": "6KGtAlYvgm4W9PoYabFAYE",
+            "name": "One Thing At A Time",
+            "albumOfTrack": {
+              "uri": "spotify:album:04VpyPCr9PQRWRRp1ecOs1",
+              "name": "One Thing At A Time (Sampler)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e028a4778fcdf78ed210d12dd21",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048518a4778fcdf78ed210d12dd21",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738a4778fcdf78ed210d12dd21",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "04VpyPCr9PQRWRRp1ecOs1",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/04VpyPCr9PQRWRRp1ecOs1?si=nDjzVILRTcSGzqOwdSDI-g"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM",
+                  "profile": {
+                    "name": "Morgan Wallen"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 206864
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:3IFYbBUCjCelWt5asaYasY",
+            "id": "3IFYbBUCjCelWt5asaYasY",
+            "name": "141",
+            "albumOfTrack": {
+              "uri": "spotify:album:7gPxrPpfY3nTUElL9sRA2z",
+              "name": "141",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02491fb74313f7546f9cf7ed0c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851491fb74313f7546f9cf7ed0c",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273491fb74313f7546f9cf7ed0c",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "7gPxrPpfY3nTUElL9sRA2z",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z?si=45hdfr62TOqw7JBdsBBcmg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:2C6i0I5RiGzDKN9IAF8reh",
+                  "profile": {
+                    "name": "Banda MS de Sergio Lizárraga"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 175102
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:0FqBNLXlTNimxmVRdDMj6b",
+            "id": "0FqBNLXlTNimxmVRdDMj6b",
+            "name": "1AM FREESTYLE",
+            "albumOfTrack": {
+              "uri": "spotify:album:2hEnymoejldpuxSdTnkard",
+              "name": "SMITHEREENS",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02eaac2a7955f5b8967991cacb",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851eaac2a7955f5b8967991cacb",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273eaac2a7955f5b8967991cacb",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2hEnymoejldpuxSdTnkard",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard?si=_G_CUOkKRX21nK6zbN9haw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq",
+                  "profile": {
+                    "name": "Joji"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 113066
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:4qP2V09IpTct5A1ZSnr1zh",
+            "id": "4qP2V09IpTct5A1ZSnr1zh",
+            "name": "You're A Mean One, Mr. Grinch",
+            "albumOfTrack": {
+              "uri": "spotify:album:6P62c1CkC8iNejWXQGegDQ",
+              "name": "Dr. Seuss' How The Grinch Stole Christmas! (Original TV Soundtrack)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0279157283898948a867d98344",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485179157283898948a867d98344",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27379157283898948a867d98344",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6P62c1CkC8iNejWXQGegDQ",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ?si=sNA2-sNxRZ29sou7eDZTTw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5Gejwv3xz2DpLcxVpMD6hL",
+                  "profile": {
+                    "name": "Thurl Ravenscroft"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:1W9sjfsJp3TqWFgvScMZdG",
+                  "profile": {
+                    "name": "Boris Karloff"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 315706
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5gmkw2031VVIboYqPIjSWB",
+            "id": "5gmkw2031VVIboYqPIjSWB",
+            "name": "1 Scale (feat. G Herbo)",
+            "albumOfTrack": {
+              "uri": "spotify:album:5LURLNXIyqBHpe5vvRTKHY",
+              "name": "Rich Slave",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d2ac2d5b457bcad2eddef496",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851d2ac2d5b457bcad2eddef496",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d2ac2d5b457bcad2eddef496",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "5LURLNXIyqBHpe5vvRTKHY",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY?si=5N7oy17GRTW-BOSOgsWooA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:3HiuzBlSW7pGDXlSFMhO2g",
+                  "profile": {
+                    "name": "Young Dolph"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:5QdEbQJ3ylBnc3gsIASAT5",
+                  "profile": {
+                    "name": "G Herbo"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 176040
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:4h9wh7iOZ0GGn8QVp4RAOB",
+            "id": "4h9wh7iOZ0GGn8QVp4RAOB",
+            "name": "I Ain't Worried",
+            "albumOfTrack": {
+              "uri": "spotify:album:04PEOM6kIEeq9lRp1asNP2",
+              "name": "I Ain’t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ec96e006b8bdfc582610ec13",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851ec96e006b8bdfc582610ec13",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ec96e006b8bdfc582610ec13",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "04PEOM6kIEeq9lRp1asNP2",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2?si=7bJzTUnuSCiaaDoT-w9TQQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ",
+                  "profile": {
+                    "name": "OneRepublic"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 148485
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5NSFsizmx1pzLVCDjD02e1",
+            "id": "5NSFsizmx1pzLVCDjD02e1",
+            "name": "1+1 - Banx & Ranx Remix",
+            "albumOfTrack": {
+              "uri": "spotify:album:6jTkUN58SbPDWLaDM3Pbtr",
+              "name": "Unwind 20's",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e1cfa41a7eac96ba895f755d",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851e1cfa41a7eac96ba895f755d",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e1cfa41a7eac96ba895f755d",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6jTkUN58SbPDWLaDM3Pbtr",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6jTkUN58SbPDWLaDM3Pbtr?si=M0bT842ER9ame_EtsdiWiQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN",
+                  "profile": {
+                    "name": "Sia"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:2uFC1dAj5b0YU7vulKNZ0p",
+                  "profile": {
+                    "name": "Banx & Ranx"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 204707
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:4KW1lqgSr8TKrvBII0Brf8",
+            "id": "4KW1lqgSr8TKrvBII0Brf8",
+            "name": "Father Stretch My Hands Pt. 1",
+            "albumOfTrack": {
+              "uri": "spotify:album:7gsWAHLeT0w7es6FofOXk1",
+              "name": "The Life Of Pablo",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e022a7db835b912dc5014bd37f4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048512a7db835b912dc5014bd37f4",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "7gsWAHLeT0w7es6FofOXk1",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1?si=zxx_Ka8hSU-kD9rNWVUN8Q"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x",
+                  "profile": {
+                    "name": "Kanye West"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 135920
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5oQcOu1omDykbIPSdSQQNJ",
+            "id": "5oQcOu1omDykbIPSdSQQNJ",
+            "name": "1985",
+            "albumOfTrack": {
+              "uri": "spotify:album:43jBR9MNJk5AUuB56M0pRF",
+              "name": "A Hangover You Don't Deserve",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f9b3ece3271d3a5fa73d3759",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851f9b3ece3271d3a5fa73d3759",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f9b3ece3271d3a5fa73d3759",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "43jBR9MNJk5AUuB56M0pRF",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF?si=XZD8InxiRHqkcLnEAWLUAQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5ND0mGcL9SKSjWIjPd0xIb",
+                  "profile": {
+                    "name": "Bowling For Soup"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 193000
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:0wavyhLvzUHcd80g0JPSN8",
+            "id": "0wavyhLvzUHcd80g0JPSN8",
+            "name": "1+1 - Banx & Ranx Remix",
+            "albumOfTrack": {
+              "uri": "spotify:album:5pKsMvrxae0Loa69HfczqM",
+              "name": "Top Feelgood",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02933730327c1644be5ff9c3af",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851933730327c1644be5ff9c3af",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273933730327c1644be5ff9c3af",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "5pKsMvrxae0Loa69HfczqM",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/5pKsMvrxae0Loa69HfczqM?si=IzF66vkjQveDXRZ_ZwLplA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN",
+                  "profile": {
+                    "name": "Sia"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:6rl53MP8HSoiugpqzA50Zh",
+                  "profile": {
+                    "name": "Amir"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:2uFC1dAj5b0YU7vulKNZ0p",
+                  "profile": {
+                    "name": "Banx & Ranx"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 196240
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5Eax0qFko2dh7Rl2lYs3bx",
+            "id": "5Eax0qFko2dh7Rl2lYs3bx",
+            "name": "Efecto",
+            "albumOfTrack": {
+              "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5",
+              "name": "Un Verano Sin Ti",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3RQQmkQEvNCY4prGKE6oc5",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5?si=e8zOSGxwTU-sxVK9UOyLVw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+                  "profile": {
+                    "name": "Bad Bunny"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 213061
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:3TXy6nchgKeYlVwOKNk9lE",
+            "id": "3TXy6nchgKeYlVwOKNk9lE",
+            "name": "100 Shots",
+            "albumOfTrack": {
+              "uri": "spotify:album:55GbaLX8yU1Agf7wjhez7W",
+              "name": "Bulletproof",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e026097fc04f7f484bf4b6f8970",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048516097fc04f7f484bf4b6f8970",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736097fc04f7f484bf4b6f8970",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "55GbaLX8yU1Agf7wjhez7W",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/55GbaLX8yU1Agf7wjhez7W?si=aB1C5v0tQdqv5hhgT2W4bg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:3HiuzBlSW7pGDXlSFMhO2g",
+                  "profile": {
+                    "name": "Young Dolph"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 264818
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5odlY52u43F5BjByhxg7wg",
+            "id": "5odlY52u43F5BjByhxg7wg",
+            "name": "golden hour",
+            "albumOfTrack": {
+              "uri": "spotify:album:69AaAkdktFGnk9POmHENkT",
+              "name": "this is what ____ feels like (Vol. 1-4)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c2504e80ba2f258697ab2954",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851c2504e80ba2f258697ab2954",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "69AaAkdktFGnk9POmHENkT",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT?si=7YieRw3rR9SrwZE-yWYmIQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK",
+                  "profile": {
+                    "name": "JVKE"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 209259
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5f5wlkRHWhYxOdp1hOUsTb",
+            "id": "5f5wlkRHWhYxOdp1hOUsTb",
+            "name": "The 12 Days of Christmas",
+            "albumOfTrack": {
+              "uri": "spotify:album:2M5NEqQVs7kIit8QbtXrRs",
+              "name": "Christmas Cheers (Deluxe)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e028408f1cde66a884d05ef8e32",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048518408f1cde66a884d05ef8e32",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738408f1cde66a884d05ef8e32",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2M5NEqQVs7kIit8QbtXrRs",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2M5NEqQVs7kIit8QbtXrRs?si=iEnf0cxVT6qP94_zHXAm8Q"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:1yQ8S4xdGOGbUcpaPR6hCM",
+                  "profile": {
+                    "name": "Straight No Chaser"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 178706
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:0pt0wjZNeFOMIeCudmXRrl",
+            "id": "0pt0wjZNeFOMIeCudmXRrl",
+            "name": "1004 Kilómetros",
+            "albumOfTrack": {
+              "uri": "spotify:album:43R7kF6zEbcmD3A5CWwBnv",
+              "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Edición Mexico",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e024eb8ff6781d1f056c22ef377",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048514eb8ff6781d1f056c22ef377",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734eb8ff6781d1f056c22ef377",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "43R7kF6zEbcmD3A5CWwBnv",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/43R7kF6zEbcmD3A5CWwBnv?si=kubVgcrJRNaploqC4Nf4KA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7Gi6gjaWy3DxyilpF1a8Is",
+                  "profile": {
+                    "name": "Junior H"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 277167
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:22WV03i2lBbwNVCE1g671p",
+            "id": "22WV03i2lBbwNVCE1g671p",
+            "name": "151 Rum",
+            "albumOfTrack": {
+              "uri": "spotify:album:2oI6gtIXrvNiL2VEMmj5kY",
+              "name": "DiCaprio 2",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f5991f6f1f0de2277bb8d948",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851f5991f6f1f0de2277bb8d948",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f5991f6f1f0de2277bb8d948",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "2oI6gtIXrvNiL2VEMmj5kY",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/2oI6gtIXrvNiL2VEMmj5kY?si=bDqjJajWTSO98ON0PDDVpg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:6U3ybJ9UHNKEdsH7ktGBZ7",
+                  "profile": {
+                    "name": "JID"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 156780
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:725NSbIej5lP3GfhLC7So3",
+            "id": "725NSbIej5lP3GfhLC7So3",
+            "name": "115",
+            "albumOfTrack": {
+              "uri": "spotify:album:5iIo9PaIwnmuhKWVaoU2WY",
+              "name": "Call of Duty: Black Ops – Zombies (Original Game Soundtrack)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e025b9c3fee7f8f2a0f1efc808c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048515b9c3fee7f8f2a0f1efc808c",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735b9c3fee7f8f2a0f1efc808c",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "5iIo9PaIwnmuhKWVaoU2WY",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/5iIo9PaIwnmuhKWVaoU2WY?si=3vga8-NWSg2SPKu4dOx5ug"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:0eYjOxLFtSZHGymJMASQiU",
+                  "profile": {
+                    "name": "Treyarch Sound"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:5Hpt9NA27fOu1HhvQ6YITJ",
+                  "profile": {
+                    "name": "Brian Tuey"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:2a1s63oSnZEVny55iHFs5P",
+                  "profile": {
+                    "name": "James McCawley"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:0etNimDSQLWFbktPBHQ5vb",
+                  "profile": {
+                    "name": "Kevin Sherwood"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 228160
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:2wrJq5XKLnmhRXHIAf9xBa",
+            "id": "2wrJq5XKLnmhRXHIAf9xBa",
+            "name": "10,000 Hours (with Justin Bieber)",
+            "albumOfTrack": {
+              "uri": "spotify:album:4ow6xJwn49gpWz7iHpOzWY",
+              "name": "10,000 Hours (with Justin Bieber)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0286953b1cbaa29e477db0b479",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485186953b1cbaa29e477db0b479",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27386953b1cbaa29e477db0b479",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4ow6xJwn49gpWz7iHpOzWY",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4ow6xJwn49gpWz7iHpOzWY?si=WisQWNlKT4mIW0AL7GPRqQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:7z5WFjZAIYejWy0NI5lv4T",
+                  "profile": {
+                    "name": "Dan + Shay"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s",
+                  "profile": {
+                    "name": "Justin Bieber"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 167693
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:78pn8k7RogKo2oxl0DyX6d",
+            "id": "78pn8k7RogKo2oxl0DyX6d",
+            "name": "One More Sleep",
+            "albumOfTrack": {
+              "uri": "spotify:album:4HRXnpdnLJGTkHSRk4roEs",
+              "name": "Christmas, With Love",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b9eeb2705c983089c2412a80",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851b9eeb2705c983089c2412a80",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b9eeb2705c983089c2412a80",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4HRXnpdnLJGTkHSRk4roEs",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs?si=DvopDev-RmCjN864tr2Ppw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5lKZWd6HiSCLfnDGrq9RAm",
+                  "profile": {
+                    "name": "Leona Lewis"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 239586
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:5reWDqtIJUihfccbvQZx6C",
+            "id": "5reWDqtIJUihfccbvQZx6C",
+            "name": "16 Mirrors",
+            "albumOfTrack": {
+              "uri": "spotify:album:3mUhfkEikAJjuvSDC1NEE4",
+              "name": "Trick",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02efcb38f6e6b28f81f836ec6a",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851efcb38f6e6b28f81f836ec6a",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273efcb38f6e6b28f81f836ec6a",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3mUhfkEikAJjuvSDC1NEE4",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4?si=80SI-mXeQZOTaK4a-w7rqw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs",
+                  "profile": {
+                    "name": "Alex G"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 87093
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:226le7T3p82reYWzsi9Hsz",
+            "id": "226le7T3p82reYWzsi9Hsz",
+            "name": "1, 2 Many",
+            "albumOfTrack": {
+              "uri": "spotify:album:0S9D5NIDp2YXhYwlvuJzqx",
+              "name": "What You See Is What You Get",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02429d8ec28f865acf2a927c2d",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851429d8ec28f865acf2a927c2d",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "0S9D5NIDp2YXhYwlvuJzqx",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx?si=TZal7EIxTw-CpdxJYr9-rA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:718COspgdWOnwOFpJHRZHS",
+                  "profile": {
+                    "name": "Luke Combs"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:0XKOBt59crntr7HQXXO8Yz",
+                  "profile": {
+                    "name": "Brooks & Dunn"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 180906
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:1fDFHXcykq4iw8Gg7s5hG9",
+            "id": "1fDFHXcykq4iw8Gg7s5hG9",
+            "name": "About You",
+            "albumOfTrack": {
+              "uri": "spotify:album:6dVCpQ7oGJD1oYs2fv1t5M",
+              "name": "Being Funny In A Foreign Language",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e021f44db452a68e229650a302c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048511f44db452a68e229650a302c",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731f44db452a68e229650a302c",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "6dVCpQ7oGJD1oYs2fv1t5M",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M?si=nV6kiWxdQra1BxJidPglCw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW",
+                  "profile": {
+                    "name": "The 1975"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 326490
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:0yNiaePZow0ycdrmLV0J7y",
+            "id": "0yNiaePZow0ycdrmLV0J7y",
+            "name": "1985",
+            "albumOfTrack": {
+              "uri": "spotify:album:73nnfo3idQepE031scuaBJ",
+              "name": "THE INSIDE OUTTAKES",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f9bc86bf12d31f62d691c0cc",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851f9bc86bf12d31f62d691c0cc",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f9bc86bf12d31f62d691c0cc",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "73nnfo3idQepE031scuaBJ",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/73nnfo3idQepE031scuaBJ?si=jWo7ZhbOSOa1MsGxFJbYwQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:2Waw2sSbqvAwK8NwACNjVo",
+                  "profile": {
+                    "name": "Bo Burnham"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 146654
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:1zi7xx7UVEFkmKfv06H8x0",
+            "id": "1zi7xx7UVEFkmKfv06H8x0",
+            "name": "One Dance",
+            "albumOfTrack": {
+              "uri": "spotify:album:40GMAhriYJRO1rsY4YdrZb",
+              "name": "Views",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e029416ed64daf84936d89e671c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048519416ed64daf84936d89e671c",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "40GMAhriYJRO1rsY4YdrZb",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb?si=6p6wx4J6TT-e7aPBw-LtmA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4",
+                  "profile": {
+                    "name": "Drake"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:3tVQdUvClmAT7URs9V3rsp",
+                  "profile": {
+                    "name": "Wizkid"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:77DAFfvm3O9zT5dIoG0eIO",
+                  "profile": {
+                    "name": "Kyla"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 173986
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:1Ug5wxoHthwxctyWTUMGta",
+            "id": "1Ug5wxoHthwxctyWTUMGta",
+            "name": "1901",
+            "albumOfTrack": {
+              "uri": "spotify:album:0xG5b9nkWxKc5VTpo6Fq5I",
+              "name": "Wolfgang Amadeus Phoenix",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02869df273a6f34f759b426ace",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851869df273a6f34f759b426ace",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273869df273a6f34f759b426ace",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "0xG5b9nkWxKc5VTpo6Fq5I",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I?si=hE6doAr-Q0a1BIKZx9GBAA"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:1xU878Z1QtBldR7ru9owdU",
+                  "profile": {
+                    "name": "Phoenix"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 193106
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6ZgigeSB0XUMqc0jjzaq6d",
+            "id": "6ZgigeSB0XUMqc0jjzaq6d",
+            "name": "You're A Mean One, Mr. Grinch",
+            "albumOfTrack": {
+              "uri": "spotify:album:13cUx8LoPoOcG4LEeRBv2q",
+              "name": "How The Grinch Stole Christmas",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e023c7c2f36269debe54658e0f2",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048513c7c2f36269debe54658e0f2",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733c7c2f36269debe54658e0f2",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "13cUx8LoPoOcG4LEeRBv2q",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/13cUx8LoPoOcG4LEeRBv2q?si=kK79b49BToWrrpME3R1MGQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:5Gejwv3xz2DpLcxVpMD6hL",
+                  "profile": {
+                    "name": "Thurl Ravenscroft"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 176333
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:1z5pB3mPwfn3lEqB4O9loE",
+            "id": "1z5pB3mPwfn3lEqB4O9loE",
+            "name": "The Twelve Pains of Christmas",
+            "albumOfTrack": {
+              "uri": "spotify:album:1CqsDLEDJtZxKrKzAFNbz0",
+              "name": "Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e025c6bdede917a4f5ece57e5e0",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d000048515c6bdede917a4f5ece57e5e0",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735c6bdede917a4f5ece57e5e0",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "1CqsDLEDJtZxKrKzAFNbz0",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/1CqsDLEDJtZxKrKzAFNbz0?si=uQ1uDSFjQ9apJqofEPqWkQ"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:2v7Q2VJ6Xo1rwwhfJ6piQw",
+                  "profile": {
+                    "name": "Bob Rivers"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 221640
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:6Xom58OOXk2SoU711L2IXO",
+            "id": "6Xom58OOXk2SoU711L2IXO",
+            "name": "Moscow Mule",
+            "albumOfTrack": {
+              "uri": "spotify:album:3RQQmkQEvNCY4prGKE6oc5",
+              "name": "Un Verano Sin Ti",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e0249d694203245f241a1bcaa72",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000485149d694203245f241a1bcaa72",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b27349d694203245f241a1bcaa72",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3RQQmkQEvNCY4prGKE6oc5",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5?si=e8zOSGxwTU-sxVK9UOyLVw"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X",
+                  "profile": {
+                    "name": "Bad Bunny"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "EXPLICIT"
+            },
+            "duration": {
+              "totalMilliseconds": 245939
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:3JjnGLK8IxkNLvo8Lb3KOM",
+            "id": "3JjnGLK8IxkNLvo8Lb3KOM",
+            "name": "18",
+            "albumOfTrack": {
+              "uri": "spotify:album:4gCNyS7pidfK3rKWhB3JOY",
+              "name": "FOUR (Deluxe)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d304ba2d71de306812eebaf4",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851d304ba2d71de306812eebaf4",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "4gCNyS7pidfK3rKWhB3JOY",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY?si=y68EN9PHSS26FODH91ZwYg"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq",
+                  "profile": {
+                    "name": "One Direction"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 248360
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        },
+        {
+          "data": {
+            "uri": "spotify:track:3XfUFGzbr0LmwFVoLXd9cO",
+            "id": "3XfUFGzbr0LmwFVoLXd9cO",
+            "name": "Billete Grande (En Vivo)",
+            "albumOfTrack": {
+              "uri": "spotify:album:3qYGLHQB2krhFp27Hm62Ip",
+              "name": "Billete Grande (En Vivo)",
+              "coverArt": {
+                "sources": [
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c73f52d6e835d6b35e8cc33c",
+                    "width": 300,
+                    "height": 300
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d00004851c73f52d6e835d6b35e8cc33c",
+                    "width": 64,
+                    "height": 64
+                  },
+                  {
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c73f52d6e835d6b35e8cc33c",
+                    "width": 640,
+                    "height": 640
+                  }
+                ]
+              },
+              "id": "3qYGLHQB2krhFp27Hm62Ip",
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip?si=7e8Hpe-vROqO5w1_rnen6w"
+              }
+            },
+            "artists": {
+              "items": [
+                {
+                  "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt",
+                  "profile": {
+                    "name": "Fuerza Regida"
+                  }
+                },
+                {
+                  "uri": "spotify:artist:0mA4dkNGiN4fqTBi2SLlAv",
+                  "profile": {
+                    "name": "Edgardo Nuñez"
+                  }
+                }
+              ]
+            },
+            "contentRating": {
+              "label": "NONE"
+            },
+            "duration": {
+              "totalMilliseconds": 163940
+            },
+            "playability": {
+              "playable": true
+            }
+          }
+        }
+      ],
+      "pagingInfo": {
+        "nextOffset": 50,
+        "limit": 50
+      }
+    }
+  }
