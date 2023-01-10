@@ -1,17 +1,47 @@
-import React, { useState, useRef } from 'react'
-import { Animated, View, Text, ScrollView, StatusBar, StyleSheet, Button } from 'react-native'
-import SongScreen from './components/SongScreen'
+import React, { useState, createContext, useContext } from 'react'
+import { StatusBar } from 'react-native'
 import HomeScreen from './screens/HomeScreen'
-export default props => {
-    const styles = StyleSheet.create({
-        
-    })
+import LoadingScreen from './screens/LoadingScreen'
+import { fetchSongs } from './Songs/getSongs'
 
-    return (
-      <View>
-      <StatusBar backgroundColor={'transparent'} translucent/>
-          <HomeScreen/>
-          <SongScreen/>
-      </View>
-    )
+const AppContext = createContext({
+  isReady: false,
+  songList: []
+})
+
+export default props => {
+  const [currentContext, setCurrentContext] = useState({
+      isReady: false,
+      songList: []
+  })
+
+  const App = () => {
+    const { isReady } = useContext(AppContext)
+
+    if (isReady) {
+      return <>
+        <StatusBar backgroundColor={'transparent'} translucent />
+        <HomeScreen />
+      </>
+    } else {
+      const getSongs = async () => {
+        const getSongList = await fetchSongs()
+        setCurrentContext({
+            isReady: true,
+            songList: typeof(getSongList) == 'object'? getSongList : require('./Songs/songs.json')
+        })
+      }
+      getSongs()
+
+      return <LoadingScreen/>
+    }
+  }
+
+  return (
+    <AppContext.Provider value={currentContext}>
+      <App />
+    </AppContext.Provider>
+  )
 }
+
+export { AppContext }

@@ -1,4 +1,4 @@
-import React, { Children, useRef } from 'react'
+import React, { Children, useEffect, useRef } from 'react'
 import { Animated, Dimensions, Image, View, Text, StyleSheet, ScrollView, StatusBar  } from 'react-native'
 import { headerBottomHeight, headerHeight, hidableHeight } from '../consts'
 import Song from '../quick-picks/Song'
@@ -37,19 +37,26 @@ export default ({scrollDistance}) => {
             paddingTop : StatusBar.currentHeight + height * 0.016,
             justifyContent : 'space-between',
             backgroundColor : scrollDistance.interpolate({
-                inputRange : [0, hidableHeight],
+                inputRange : [hidableHeight * 0.8, hidableHeight],
                 outputRange : ['transparent', 'black'], 
                 extrapolate : 'clamp'
             }),
             transform : [{
                 translateY : animateY
             }],
-            borderBottomColor : '#2B2C2C',
-            borderBottomWidth : animatedBorderWidth
+            borderBottomColor : scrollDistance.interpolate({
+                inputRange : [0, hidableHeight],
+                outputRange : ['rgba(163, 163, 163, 0.4)', 'rgba(59, 59, 59, 0.6)'], 
+                extrapolate : 'clamp'
+            }),
+            // borderBottomColor : '#3B3B3B',
+            // borderBottomColor : 'white',
+            borderBottomWidth : animatedBorderWidth,
         },
         opacityView : {
             flexDirection : 'row',
             justifyContent : 'space-between',
+            alignItems : 'center',
             paddingLeft : width * 0.02,
             paddingRight : width * 0.02,
             opacity : animateOpacity
@@ -68,40 +75,32 @@ export default ({scrollDistance}) => {
             width : iconHeight, 
             justifyContent : 'center',
             alignItems : 'center',
-            alignSelf : 'flex-end',
             marginRight : margin,
             marginLeft : margin
         },
-        ytLogoContainer : {
-            marginLeft : margin,
-            height : ytlogoheight,
-            width : ytlogoheight + 2,
+        logoContainer : {
+            flexDirection : 'row',
+            alignItems : 'center',
+            height : 7 * headerHeight * 0.03,
+            width : 20.2 * headerHeight * 0.03
         },
         ytlogo : {
-            resizeMode : 'stretch',
-            height : 5.93 * headerHeight * 0.025,
-            width : 6 * headerHeight * 0.025,
-            marginLeft : margin,
-            marginRight : margin * 0.3,
-        },
-        ytname : {
-            resizeMode : 'stretch',
-            tintColor : 'white',
-            height : 4.88 * headerHeight * 0.027,
-            width : 12.45 * headerHeight * 0.027
+            flex : 1,
+            marginLeft : margin
         }
     })
     // ANIMATIONS
     const opacityRefs = useRef([])
-    const glow = (idx) => opacityRefs.current[idx].glow()
-
-    const changeBorder = (value) => {
+    useEffect(() => {
+        const glow = (idx) => opacityRefs.current[idx].glow()
         for(let c = 0; c < opacityRefs.current.length ; c++) {
             setTimeout(() => {
                 glow(c)
-             }, c * 80)
+             }, c * 80 + 1000)
         }
+    }, [])
 
+    const changeBorder = (value) => {
         Animated.timing(animatedBorderWidth, {
             toValue : value,
             duration : 200,
@@ -113,7 +112,7 @@ export default ({scrollDistance}) => {
         const y = event.value
         
         if(y >= hidableHeight && grow.current == true){
-            changeBorder(0.8)
+            changeBorder(0.7)
             grow.current = false
         } else if(y == 0){
             changeBorder(0)
@@ -125,18 +124,17 @@ export default ({scrollDistance}) => {
     //COMPONENTS
     const YtLogo = () => {
     return (
-        <View style={{flexDirection : 'row', alignItems : 'center'}}>
-            <Image style={styles.ytlogo}
-                source={require('../../Images/YouTube-Music-Logo.png')}
-            />
-            <Image style={styles.ytname}
-                source={require('../../Images/YouTube-Music-Name.png')}
+        <View style={styles.logoContainer}>
+            <Image 
+                style={styles.ytlogo}
+                resizeMode={'contain'}
+                source={require('../../Images/YouTube-Music.webp')}
             />
         </View>
     )}
     const Buttons = () => {
     return (
-        <View style={{flexDirection : 'row', alignSelf : 'flex-end', alignItems : 'center'}}>
+        <View style={{flexDirection : 'row', height : '100%', alignSelf : 'flex-end', justifyContent : 'center', alignItems : 'center'}}>
             <Image style={styles.icons}
                 source={require('../../Images/cast.png')}
             />
@@ -158,11 +156,11 @@ export default ({scrollDistance}) => {
                 </Animated.View>
                 <View style={{height : '62%'}}>
                     <ScrollView contentContainerStyle={{alignItems : 'center', paddingLeft : width * 0.04, paddingRight : width * 0.04}} horizontal>
-                        <HeaderBottomBox ref={ el => opacityRefs.current[0] = el }  {...{text : 'Energize'}}/>
+                        <HeaderBottomBox ref={ el => opacityRefs.current[0] = el } text={'Workout'}/>
                         <HeaderBottomBox ref={ el => opacityRefs.current[1] = el } text={'Relax'}/>
-                        <HeaderBottomBox ref={ el => opacityRefs.current[2] = el } text={'Energize'}/>
-                        <HeaderBottomBox ref={ el => opacityRefs.current[3] = el } text={'aaaaaaaa'}/>
-                        <HeaderBottomBox ref={ el => opacityRefs.current[4] = el } text={'aaaaaaaaaa'}/>
+                        <HeaderBottomBox ref={ el => opacityRefs.current[2] = el } text={'Commute'}/>
+                        <HeaderBottomBox ref={ el => opacityRefs.current[3] = el } text={'Energize'}/>
+                        <HeaderBottomBox ref={ el => opacityRefs.current[4] = el } text={'Focus'}/>
                     </ScrollView>
                 </View>
             </Animated.View>

@@ -28,15 +28,15 @@ export default React.forwardRef((props, ref) => {
     const width = Dimensions.get('window').width
     const styles = StyleSheet.create({
         button : {
-            backgroundColor : 'rgba(113, 113, 113, 0.4)',
+            backgroundColor : 'rgba(126, 126, 126, 0.2)',
             justifyContent : 'center',
             alignItems : 'center',
             height : '58%',
             borderRadius : 10,
-            borderColor : 'rgba(167, 167, 167, 0.4)',
-            paddingRight : width * 0.048,
-            paddingLeft : width * 0.048,
-            borderWidth : width * 0.002,
+            borderColor : 'rgba(167, 167, 167, 0.23)',
+            paddingRight : width * 0.045,
+            paddingLeft : width * 0.045,
+            borderWidth : width * 0.003,
             marginLeft : width * 0.01,
             marginRight : width * 0.01
         },
