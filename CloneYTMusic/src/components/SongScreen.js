@@ -3,25 +3,29 @@ import { Animated, View, Text, StyleSheet, Dimensions, PanResponder } from 'reac
 export default props => {
     const height = Dimensions.get('window').height
     const miniPlayerY = height * 0.9
-    const yBeforeTouch = useRef(miniPlayerY)
+    const moveYListener = useRef(miniPlayerY)
     const moveY = useRef(new Animated.Value(miniPlayerY)).current
+    moveY.addListener((event) => {
+        moveYListener.current = event.value 
+    })
     const animateY = Animated
         .diffClamp(moveY, 0, miniPlayerY)
         .interpolate({
             inputRange : [0, 1],
             outputRange : [0, 1],
         })
-    const scale = (action) => {
+
+    const translate = (action) => {
         var value = 0
 
         switch (action) {
             case 'up' : 
-                value = 0
-                yBeforeTouch.current = 0
+                value = moveYListener.current - miniPlayerY
+                //yBeforeTouch.current = 0
             break
             case 'down' :
-                value = miniPlayerY
-                yBeforeTouch.current = miniPlayerY
+                value = moveYListener.current + miniPlayerY
+                //yBeforeTouch.current = miniPlayerY
             break
         }
 
@@ -36,17 +40,30 @@ export default props => {
         PanResponder.create({
             onMoveShouldSetPanResponder : () => true,
             onPanResponderGrant : (e, gestureState) => {
-                moveY.setOffset(yBeforeTouch.current + gestureState.dy)
+                const currentVy = gestureState.vy
+                //moveY.setValue(moveYListener.current + currentVy * 10)
             },
             onPanResponderMove : (e, gestureState) => {
-                const currentDY = gestureState.dy
-                console.log(yBeforeTouch.current, currentDY)
-                moveY.setValue(yBeforeTouch.current + currentDY)
+                const currentVy = gestureState.vy
+                moveY.setOffset(gestureState.dy)
+                //moveY.setValue(moveYListener.current + currentVy * 10)
             },
             onPanResponderRelease : (e, gestureState) => {
-                //yBeforeTouch.current += gestureState.dy
+                const yVelocity = gestureState.vy
+                const translateY = () => {
+                    if(yVelocity < 0){
+                        translate('up')
+                    } else {
+                        translate('down')
+                    }
+                }
+
+                const goBack = () => {
+                    moveYListener.current > -0.4? translate('up') : translate('down')
+                }
+                
                 moveY.flattenOffset()
-                gestureState.dy < 0? scale('up') : scale('down')
+                Math.abs(yVelocity) > 0.02? translateY() : goBack()
             }
 
         })).current

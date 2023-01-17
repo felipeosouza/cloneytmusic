@@ -6,7 +6,7 @@ export default ({ songCover, songName, label }) => {
     const height = Dimensions.get('window').height
     const styles = StyleSheet.create({
         container: {
-            height: '45%',
+            height: '50%',
             aspectRatio: 1 / 1.6,
             marginLeft: width * 0.038
         },

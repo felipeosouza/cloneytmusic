@@ -1,12 +1,13 @@
 import React, { useRef } from 'react'
-import { Animated, Dimensions, View, StyleSheet } from 'react-native'
+import { Animated, Dimensions, View, StyleSheet, StatusBar } from 'react-native'
 import Header from '../components/header/Header'
 import { headerBottomHeight, headerHeight } from '../components/consts'
+import SongScreen from '../components/SongScreen'
 import QuickPicks from '../components/quick-picks/QuickPicks'
 import ListenAgain from '../components/listen-again/ListenAgain'
 import ForgottenFavorites from '../components/forgotten-favorites/ForgottenFavorites.js'
 
-export default props => {
+export default ({navigation}) => {
     const height = Dimensions.get('window').height
     const opacitySection = headerBottomHeight
 
@@ -47,6 +48,7 @@ export default props => {
 
         return (
         <View style={styles.container}>
+            <StatusBar backgroundColor={'transparent'} translucent />
             <View style={styles.absolute}>
                 <View style={styles.blackBackground} />
                 <Animated.Image style={styles.image}
@@ -76,8 +78,9 @@ export default props => {
                 <ForgottenFavorites/>
             </Animated.ScrollView>
             <View style={styles.absolute}>
-                <Header scrollDistance={scrollDistance} />
+                <Header scrollDistance={scrollDistance} navigation={navigation}/>
             </View>
+            {/* <SongScreen/> */}
         </View>
     )
 }
