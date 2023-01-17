@@ -6,6 +6,7 @@ Clone of YTMusic's Home screen, the music app I use and find absolutely beautifu
 - Spotify API from rapidapi to get free song information;  
 - fetch to get the songs;  
 - React Context to wait for songs to fetch;
+- FlatList for Search Screen;
 
 # Loading Screen and shining animation  
 
