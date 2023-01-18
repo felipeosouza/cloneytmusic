@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/120433923/211428532-471b3a43-990a-4d1b
 
 https://user-images.githubusercontent.com/120433923/211427693-25734e97-70eb-48c6-8573-9a7ad8cbe500.mp4
 
-###Search Screen 
+### Search Screen 
 TextInput to search by song name or artist  
 
 https://user-images.githubusercontent.com/120433923/212927716-694710de-b9e8-4f4b-9fdc-d7bb743d112d.mp4
