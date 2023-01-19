@@ -1,5 +1,5 @@
 # ytmusicclone
-Clone of YTMusic's Home screen, the music app I use and find absolutely beautiful, which made me want to replicate it.  
+Clone of the Home screen and search bar of YouTube Music, the music app I use and find absolutely beautiful, which made me want to replicate it.  
 [Android APK](https://drive.google.com/file/d/1KZ1fE8KG-B2Or5EynnHRU6ZqXRX9--LZ/view?usp=sharing)
 # Features used in this project
 - react-native-animated to animate the collapsable header, opacities and shining effects;  
